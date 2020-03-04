@@ -13,6 +13,7 @@
 		28E81EAB240E1586009931CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28E81EA9240E1586009931CE /* Main.storyboard */; };
 		28E81EAD240E1588009931CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28E81EAC240E1588009931CE /* Assets.xcassets */; };
 		28E81EB0240E1588009931CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28E81EAE240E1588009931CE /* LaunchScreen.storyboard */; };
+		28E81EB8240E2D50009931CE /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E81EB7240E2D50009931CE /* UIImageExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		28E81EAC240E1588009931CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28E81EAF240E1588009931CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28E81EB1240E1588009931CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28E81EB7240E2D50009931CE /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				28E81EA5240E1586009931CE /* SceneDelegate.swift */,
 				28E81EA7240E1586009931CE /* ViewController.swift */,
 				28E81EA9240E1586009931CE /* Main.storyboard */,
+				28E81EB7240E2D50009931CE /* UIImageExtension.swift */,
 				28E81EAC240E1588009931CE /* Assets.xcassets */,
 				28E81EAE240E1588009931CE /* LaunchScreen.storyboard */,
 				28E81EB1240E1588009931CE /* Info.plist */,
@@ -141,6 +144,7 @@
 				28E81EA8240E1586009931CE /* ViewController.swift in Sources */,
 				28E81EA4240E1586009931CE /* AppDelegate.swift in Sources */,
 				28E81EA6240E1586009931CE /* SceneDelegate.swift in Sources */,
+				28E81EB8240E2D50009931CE /* UIImageExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
